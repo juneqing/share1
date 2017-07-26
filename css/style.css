@@ -218,7 +218,7 @@ body {
     width: 4.4rem;
     height: 4.4rem;
     border-radius: 50%;
-    border: 1px solid #fab57c;
+    border: 1px solid #037ce7;
     float: left;
     margin-top: 1.8rem;
 }
@@ -258,7 +258,7 @@ body {
     margin-left: 0.2rem;
 }
 
-.icon-box>i {
+.icon-box i {
     font-size: 1rem;
     color: #fff;
     position: absolute;
@@ -451,7 +451,7 @@ body {
 
 .shuju {
     width: 100%;
-    height: 12.8rem;
+    height: 14.8rem;
     background: #037ce7;
     text-align: center;
 }
@@ -511,16 +511,16 @@ body {
 }
 
 .liebiao li {
-    height: 3rem;
+    height: 3.4rem;
     width: 100%;
-    line-height: 3rem;
+    line-height: 3.4rem;
     font-size: 0.9rem;
     overflow: hidden;
 }
 
 .liebiao li i {
     font-size: 1.2rem;
-    line-height: 3rem;
+    line-height: 3.4rem;
     float: left;
 }
 
@@ -704,7 +704,7 @@ body {
     height: 2rem;
     border: none;
     line-height: 2rem;
-    border: 1px solid #ff9240;
+    border: 1px solid #037ce7;
     border-radius: 0;
     text-indent: 3.5rem;
     -webkit-appearance: none;
@@ -727,9 +727,9 @@ body {
     top: 0.5rem;
     z-index: 2;
     font-size: 0.9rem;
-    border-right: 1px solid #ff9140;
+    border-right: 1px solid #037ce7;
     padding-right: 0.5rem;
-    color: #ff9140;
+    color: #037ce7;
 }
 
 .form-box button {
@@ -737,8 +737,8 @@ body {
     height: 2rem;
     border: none;
     line-height: 2rem;
-    background: #ff9240;
-    border: 1px solid #ff9240;
+    background: #a3d4ff;
+    border: 1px solid #a3d4ff;
     border-radius: 0;
     text-align: center;
     -webkit-appearance: none;
